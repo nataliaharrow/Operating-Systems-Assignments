@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Locks/Locks.iml" filepath="$PROJECT_DIR$/Locks/Locks.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Operating-Systems-Assignments.iml" filepath="$PROJECT_DIR$/.idea/Operating-Systems-Assignments.iml" />
       <module fileurl="file://$PROJECT_DIR$/Producer-Consumer/Producer-Consumer.iml" filepath="$PROJECT_DIR$/Producer-Consumer/Producer-Consumer.iml" />
     </modules>
